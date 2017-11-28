@@ -89,7 +89,7 @@ Partial Class Giris
         '
         Me.btnKayıt.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.btnKayıt.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.btnKayıt.Location = New System.Drawing.Point(206, 177)
+        Me.btnKayıt.Location = New System.Drawing.Point(207, 166)
         Me.btnKayıt.Name = "btnKayıt"
         Me.btnKayıt.Size = New System.Drawing.Size(88, 37)
         Me.btnKayıt.TabIndex = 5
