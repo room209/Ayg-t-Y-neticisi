@@ -79,6 +79,12 @@
       <DependentUpon>Giris.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Kayit Ol.Designer.vb">
+      <DependentUpon>Kayit Ol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kayit Ol.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -98,6 +104,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Giris.resx">
       <DependentUpon>Giris.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayit Ol.resx">
+      <DependentUpon>Kayit Ol.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
